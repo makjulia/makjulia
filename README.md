@@ -2,31 +2,37 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVtdDF0Z29ha2gydmtwbXF2aGprcnE3b2RweG0xbjRwd3J4MG43cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j0HjChGV0J44KrrlGv/giphy.gif" width = 100 />
 </div>
 
-## 🚀 Привет, меня зовут Юлия! 👋
+## 🚀Привет, меня зовут Юлия! 👋
 
-## About me:
+## Обо мне:
 
-Я начинающий QA Engineer. Мой путь начался с курса "Тестирование ПО с нуля" на платформе Stepik. Тогда я поняла, что это действительно то,
-чем я хочу заниматься! Сейчас я продолжаю изучение теории тестирования и делаю небольшие шаги в написании автотестов.
+Я начинающий QA Engineer. Мой путь начался с курса "Тестирование ПО с нуля" на платформе Stepik. Тогда я поняла, что это действительно то, чем я хочу заниматься! Сейчас я продолжаю изучение теории тестирования и делаю небольшие шаги в написании автотестов.
 
-## 🛠 Languages and Tools
+## 💡Языки и Инструменты
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
-  <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp
-  <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="html" alt="html" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp
+    <img src="https://img.shields.io/badge/MySQL-aliceblue?style=for-the-badge&logo=mysql&logoColor=%234479A1" title="mysql" alt="mysql" height="30"/>
+    <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=%233776AB" title="python" alt="python" height="30"/>
+    <img src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=%23E34F26" title="html" alt="html" height="30"/>
+    <img src="https://img.shields.io/badge/DevTools-red?style=for-the-badge&logo=googlechrome&logoColor=white" title="devtools" alt="devtools" height="30"/>
+   <img src="https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=postman&logoColor=%23FF6C37" title="postman" alt="postman" height="30"/>
+   <img src="https://img.shields.io/badge/SOAPUi-yellow?style=for-the-badge" title="soapui" alt="soapui" height="30"/>
+   <img src="https://img.shields.io/badge/Selenium-white?style=for-the-badge&logo=selenium&logoColor=%2343B02A" title="selenium" alt="selenium" height="30"/>
 </div>
 
-## Follow Me
+## 📝Работа с кодом
+
+<div>
+   <img src="https://img.shields.io/badge/VScode-blue?style=for-the-badge&logoColor=white" title="vscode" alt="vscode"  height="30"/>
+   <img src="https://img.shields.io/badge/PyCharm-yellow?style=for-the-badge&logo=pycharm&logoColor=white" title="pycharm" alt="pycharm"  height="30"/>
+   <img src="https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash&logoColor=white" title="bash" alt="bash"  height="30"/>
+   <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white" title="git" alt="git" height="30"/>
+</div>
+
+## Контакты
 
  <div id="badges">
     <a href="https://t.me/froggy_green" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white&logoSize=auto"  alt="telegram" />
     </a>
   </div>
