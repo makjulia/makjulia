@@ -11,20 +11,20 @@
 ## 💡Языки и Инструменты
 
 <div>
-    <img src="https://img.shields.io/badge/MySQL-aliceblue?style=for-the-badge&logo=mysql&logoColor=%234479A1" title="mysql" alt="mysql" height="30"/>
-    <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=%233776AB" title="python" alt="python" height="30"/>
-    <img src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=%23E34F26" title="html" alt="html" height="30"/>
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" title="mysql" alt="mysql" height="30"/>
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" title="python" alt="python" height="30"/>
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" title="html" alt="html" height="30"/>
     <img src="https://img.shields.io/badge/DevTools-red?style=for-the-badge&logo=googlechrome&logoColor=white" title="devtools" alt="devtools" height="30"/>
-   <img src="https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=postman&logoColor=%23FF6C37" title="postman" alt="postman" height="30"/>
+   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" title="postman" alt="postman" height="30"/>
    <img src="https://img.shields.io/badge/SOAPUi-yellow?style=for-the-badge" title="soapui" alt="soapui" height="30"/>
-   <img src="https://img.shields.io/badge/Selenium-white?style=for-the-badge&logo=selenium&logoColor=%2343B02A" title="selenium" alt="selenium" height="30"/>
+   <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" title="selenium" alt="selenium" height="30"/>
 </div>
 
 ## 📝Работа с кодом
 
 <div>
-   <img src="https://img.shields.io/badge/VScode-blue?style=for-the-badge&logoColor=white" title="vscode" alt="vscode"  height="30"/>
-   <img src="https://img.shields.io/badge/PyCharm-yellow?style=for-the-badge&logo=pycharm&logoColor=white" title="pycharm" alt="pycharm"  height="30"/>
+   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" title="vscode" alt="vscode"  height="30"/>
+   <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" title="pycharm" alt="pycharm"  height="30"/>
    <img src="https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash&logoColor=white" title="bash" alt="bash"  height="30"/>
    <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white" title="git" alt="git" height="30"/>
 </div>
